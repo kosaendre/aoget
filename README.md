@@ -9,7 +9,7 @@ AOGet is a download manager for easy fileset downloads from archive.org, or any 
 ![Single GIF manual](aoget/docs/aoget_manual.gif)
 
 ## Limitations, known issues
-* The app is in beta. Expect issues.
+* The app is the result of a laerning exercise (Python) and is beta. Expect issues.
 * It was written in Python and can be a little slow with large filesets.
 * It does not support parallel download threads for a single file, but can download many files in parallel.
 * Job deletion is slow with large jobs.
@@ -20,7 +20,7 @@ AOGet is a download manager for easy fileset downloads from archive.org, or any 
 * The target filenames are not temporaray as is the good practice with download managers (.filepart etc.)
 
 ## What's next?
-I plan to do updates if the app sees some actual use.
+I might do updates if anybody needs them.
 * [v0.9.2 Milestone](https://github.com/endre-git/aoget/milestone/11) is a 60/40% bugfix/feature release with minor enhancements.
 * [v1.0 Milestone](https://github.com/endre-git/aoget/milestone/6) is about additional enhancements.
 * [Later](https://github.com/endre-git/aoget/milestone/9) are nice-to-haves.
